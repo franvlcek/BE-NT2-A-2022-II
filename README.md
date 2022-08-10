@@ -1,4 +1,4 @@
-# BE-NT2-A-2021-II
+# BE-NT2-A-2022-II
 Repositorio de la clase de NT2 A para el 2022-II
 
 # Consigna 
