@@ -7,6 +7,8 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 
 - Hacer FORK de este repositorio (con sus cuentas de github).
 - Editar este archivo *README.md* y agregar en el listado el `nombre`, `apellido`, y `usuario github`.
-- Hacer un Pull request de sus respositorios (hechos mediante el fork) a la rama `main` del repositorio de la clase.
+- Hacer un Pull request de sus respositorios (hechos mediante el fork) a la rama `master` del repositorio de la clase.
 
 ## Listado de participantes:
+
+- Daniel Guzman, *dguzman-ort*
